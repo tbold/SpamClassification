@@ -1,5 +1,5 @@
 # SpamClassification
-a Machine Learning model to classify spam vs real news
+A Machine Learning model to classify spam vs real news
 
 The goal of this model is to read in news articles and blog posts to label it as spam or not spam.
 
